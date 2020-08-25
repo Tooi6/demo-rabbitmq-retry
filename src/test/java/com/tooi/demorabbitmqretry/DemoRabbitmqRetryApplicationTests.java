@@ -37,5 +37,4 @@ class DemoRabbitmqRetryApplicationTests {
         orderService.createOrder(order);
     }
 
-
 }
